@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(131, 131, 131);
+    align-items: center;
+}
+.header-nav{
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+}
+.header-nav__a{
+    text-decoration: none;
+    font-weight: 700;
+}
